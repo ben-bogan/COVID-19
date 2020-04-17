@@ -1,0 +1,275 @@
+[
+  {
+    "Date": "2020-03-01",
+    "Cases": 74,
+    "Increase": 0,
+    "Growth rate": 1.3,
+    "Deaths": 1
+  },
+  {
+    "Date": "2020-03-02",
+    "Cases": 98,
+    "Increase": 24,
+    "Growth rate": 1.324324324,
+    "Deaths": 6
+  },
+  {
+    "Date": "2020-03-03",
+    "Cases": 118,
+    "Increase": 20,
+    "Growth rate": 1.204081633,
+    "Deaths": 7
+  },
+  {
+    "Date": "2020-03-04",
+    "Cases": 149,
+    "Increase": 31,
+    "Growth rate": 1.262711864,
+    "Deaths": 11
+  },
+  {
+    "Date": "2020-03-05",
+    "Cases": 217,
+    "Increase": 68,
+    "Growth rate": 1.456375839,
+    "Deaths": 12
+  },
+  {
+    "Date": "2020-03-06",
+    "Cases": 262,
+    "Increase": 45,
+    "Growth rate": 1.207373272,
+    "Deaths": 14
+  },
+  {
+    "Date": "2020-03-07",
+    "Cases": 402,
+    "Increase": 140,
+    "Growth rate": 1.534351145,
+    "Deaths": 17
+  },
+  {
+    "Date": "2020-03-08",
+    "Cases": 518,
+    "Increase": 116,
+    "Growth rate": 1.288557214,
+    "Deaths": 21
+  },
+  {
+    "Date": "2020-03-09",
+    "Cases": 583,
+    "Increase": 65,
+    "Growth rate": 1.125482625,
+    "Deaths": 22
+  },
+  {
+    "Date": "2020-03-10",
+    "Cases": 959,
+    "Increase": 376,
+    "Growth rate": 1.644939966,
+    "Deaths": 28
+  },
+  {
+    "Date": "2020-03-11",
+    "Cases": 1281,
+    "Increase": 322,
+    "Growth rate": 1.335766423,
+    "Deaths": 36
+  },
+  {
+    "Date": "2020-03-12",
+    "Cases": 1663,
+    "Increase": 382,
+    "Growth rate": 1.298204528,
+    "Deaths": 40
+  },
+  {
+    "Date": "2020-03-13",
+    "Cases": 2179,
+    "Increase": 516,
+    "Growth rate": 1.310282622,
+    "Deaths": 47
+  },
+  {
+    "Date": "2020-03-14",
+    "Cases": 2727,
+    "Increase": 548,
+    "Growth rate": 1.25149151,
+    "Deaths": 54
+  },
+  {
+    "Date": "2020-03-15",
+    "Cases": 3499,
+    "Increase": 772,
+    "Growth rate": 1.283094976,
+    "Deaths": 63
+  },
+  {
+    "Date": "2020-03-16",
+    "Cases": 4632,
+    "Increase": 1133,
+    "Growth rate": 1.323806802,
+    "Deaths": 85
+  },
+  {
+    "Date": "2020-03-17",
+    "Cases": 6421,
+    "Increase": 1789,
+    "Growth rate": 1.386226252,
+    "Deaths": 108
+  },
+  {
+    "Date": "2020-03-18",
+    "Cases": 7783,
+    "Increase": 1362,
+    "Growth rate": 1.212116493,
+    "Deaths": 118
+  },
+  {
+    "Date": "2020-03-19",
+    "Cases": 13747,
+    "Increase": 5964,
+    "Growth rate": 1.766285494,
+    "Deaths": 200
+  },
+  {
+    "Date": "2020-03-20",
+    "Cases": 19273,
+    "Increase": 5526,
+    "Growth rate": 1.401978614,
+    "Deaths": 244
+  },
+  {
+    "Date": "2020-03-21",
+    "Cases": 25600,
+    "Increase": 6327,
+    "Growth rate": 1.32828309,
+    "Deaths": 307
+  },
+  {
+    "Date": "2020-03-22",
+    "Cases": 33276,
+    "Increase": 7676,
+    "Growth rate": 1.29984375,
+    "Deaths": 417
+  },
+  {
+    "Date": "2020-03-23",
+    "Cases": 43847,
+    "Increase": 10571,
+    "Growth rate": 1.317676403,
+    "Deaths": 557
+  },
+  {
+    "Date": "2020-03-24",
+    "Cases": 53740,
+    "Increase": 9893,
+    "Growth rate": 1.22562547,
+    "Deaths": 706
+  },
+  {
+    "Date": "2020-03-25",
+    "Cases": 65778,
+    "Increase": 12038,
+    "Growth rate": 1.224004466,
+    "Deaths": 942
+  },
+  {
+    "Date": "2020-03-26",
+    "Cases": 83836,
+    "Increase": 18058,
+    "Growth rate": 1.274529478,
+    "Deaths": 1209
+  },
+  {
+    "Date": "2020-03-27",
+    "Cases": 101657,
+    "Increase": 17821,
+    "Growth rate": 1.212569779,
+    "Deaths": 1581
+  },
+  {
+    "Date": "2020-03-28",
+    "Cases": 121465,
+    "Increase": 19808,
+    "Growth rate": 1.194851314,
+    "Deaths": 2026
+  },
+  {
+    "Date": "2020-03-29",
+    "Cases": 140909,
+    "Increase": 19444,
+    "Growth rate": 1.160079035,
+    "Deaths": 2467
+  },
+  {
+    "Date": "2020-03-30",
+    "Cases": 161831,
+    "Increase": 20922,
+    "Growth rate": 1.148478805,
+    "Deaths": 2978
+  },
+  {
+    "Date": "2020-03-31",
+    "Cases": 188172,
+    "Increase": 26341,
+    "Growth rate": 1.162768567,
+    "Deaths": 3873
+  },
+  {
+    "Date": "2020-04-01",
+    "Cases": 213372,
+    "Increase": 25200,
+    "Growth rate": 1.133920031,
+    "Deaths": 4757
+  },
+  {
+    "Date": "2020-04-02",
+    "Cases": 243762,
+    "Increase": 30390,
+    "Growth rate": 1.14242731,
+    "Deaths": 5926
+  },
+  {
+    "Date": "2020-04-03",
+    "Cases": 275586,
+    "Increase": 31824,
+    "Growth rate": 1.130553573,
+    "Deaths": 7087
+  },
+  {
+    "Date": "2020-04-04",
+    "Cases": 308853,
+    "Increase": 33267,
+    "Growth rate": 1.120713679,
+    "Deaths": 8407
+  },
+  {
+    "Date": "2020-04-05",
+    "Cases": 337072,
+    "Increase": 28219,
+    "Growth rate": 1.09136709,
+    "Deaths": 9619
+  },
+  {
+    "Date": "2020-04-06",
+    "Cases": 366667,
+    "Increase": 29595,
+    "Growth rate": 1.087800233,
+    "Deaths": 10783
+  },
+  {
+    "Date": "2020-04-07",
+    "Cases": 396223,
+    "Increase": 29556,
+    "Growth rate": 1.080607199,
+    "Deaths": 12722
+  },
+  {
+    "Date": "2020-04-08",
+    "Cases": 429052,
+    "Increase": 32829,
+    "Growth rate": 1.082854857,
+    "Deaths": 14695
+  }
+]
